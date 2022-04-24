@@ -1,5 +1,5 @@
 :root {
-    --primary-color: #6F1E51;
+    --primary-color: darkgreen;
     --primary-hover: #B53471;
 }
 
@@ -13,7 +13,7 @@ body, html, input, textarea {
     padding: 0;
     margin: 0;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #333;
+    color: black;
 }
 
 a {
@@ -26,7 +26,7 @@ a {
 
 .homepage {
     text-decoration: none;
-    color: var(--primary-color);
+    color: darkgreen;
     font-weight: bold;
     transition: color .1s;
     margin: 20px;
